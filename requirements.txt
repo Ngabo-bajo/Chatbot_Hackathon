@@ -2,3 +2,10 @@ flask
 flask_ngrok 
 pyngrok
 gunicorn
+detectlanguage
+BeautifulSoup
+pandas
+json
+re
+transformers
+torchinfo
