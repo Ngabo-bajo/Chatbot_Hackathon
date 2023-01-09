@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+
+  <head>
+    <meta charset="UTF-8" />
+    <title>Chatbot</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="bubbles">
+        <span style="--i: 11"></span>
+        <span style="--i: 13"></span>
+        <span style="--i: 21"></span>
+        <span style="--i: 15"></span>
+        <span style="--i: 13"></span>
+        <span style="--i: 14"></span>
+        <span style="--i: 23"></span>
+        <span style="--i: 19"></span>
+        <span style="--i: 17"></span>
+        <span style="--i: 16"></span>
+        <span style="--i: 20"></span>
+        <span style="--i: 19"></span>
+        <span style="--i: 24"></span>
+        <span style="--i: 11"></span>
+        <span style="--i: 18"></span>
+        <span style="--i: 15"></span>
+        <span style="--i: 25"></span>
+        <span style="--i: 21"></span>
+        <span style="--i: 22"></span>
+        <span style="--i: 29"></span>
+        <span style="--i: 11"></span>
+        <span style="--i: 13"></span>
+        <span style="--i: 21"></span>
+        <span style="--i: 15"></span>
+        <span style="--i: 10"></span>
+        <span style="--i: 14"></span>
+        <span style="--i: 23"></span>
+        <span style="--i: 34"></span>
+        <span style="--i: 17"></span>
+        <span style="--i: 16"></span>
+        <span style="--i: 15"></span>
+        <span style="--i: 19"></span>
+        <span style="--i: 24"></span>
+        <span style="--i: 11"></span>
+        <span style="--i: 18"></span>
+        <span style="--i: 15"></span>
+        <span style="--i: 25"></span>
+        <span style="--i: 21"></span>
+        <span style="--i: 22"></span>
+        <span style="--i: 29"></span>
+      </div>
+      <!-- </div> -->
+      <div class="chatbox__description">
+        <div class="skewed">
+          <div class="text">
+            <h1>CHATBOT Service</h1>
+            <p>
+              This is Multi-lingual chatbot designed to help you to get useful
+              information and links from RDB, RRA and RURA websites.
+            </p>
+          </div>
+          <div class="image">
+            <div>
+              <img src="{{ url_for('static', filename='images/bots.webp') }}" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="chatbox">
+      <div class="chatbox__support">
+        <div class="chatbox__header">
+          <div class="chatbox__image--header">
+            <img
+              src="https://img.icons8.com/fluency/48/null/bot.png"
+              alt="image"
+            />
+            <!-- https://img.icons8.com/color/48/000000/circled-user-female-skin-type-5--v1.png -->
+            <!-- https://img.icons8.com/fluency/48/null/bot.png -->
+          </div>
+          <div class="chatbox__content--header">
+            <h4 class="chatbox__heading--header">Chat support</h4>
+            <p class="chatbox__description--header">
+              Need any help? Please reach out through the chat.
+            </p>
+          </div>
+        </div>
+        <div class="chatbox__messages">
+          <div></div>
+        </div>
+        <div class="chatbox__footer">
+          <input type="text" placeholder="Write a message..." />
+          <button class="chatbox__send--footer send__button">Send</button>
+        </div>
+      </div>
+      <div class="chatbox__button">
+        <!-- <button>
+              <img
+                src="{{ url_for('static', filename='images/chatbox-icon.svg') }}"
+              />
+            </button> -->
+        <button>
+          <img
+            src="{{ url_for('static', filename='images/icons8-chatbot-32_w.png') }}"
+          />
+        </button>
+      </div>
+    </div>
+    <!-- </div> -->
+    <script>
+      $SCRIPT_ROOT = {{ request.script_root|tojson }};
+    </script>
+    <script
+      type="text/javascript"
+      src="{{ url_for('static', filename='app.js') }}"
+    ></script>
+  </body>
+</html>
