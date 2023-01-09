@@ -1,0 +1,546 @@
+[
+    {
+        "tag": "RRA Frequently Asked Questions",
+        "patterns": [
+            "what is procedures to RRA Frequently Asked Questions?",
+            "where do I find RRA Frequently Asked Questions?",
+            "I want to know about RRA Frequently Asked Questions?",
+            "what is RRA Frequently Asked Questions?",
+            "what is link of RRA Frequently Asked Questions?",
+            "Guide me to RRA Frequently Asked Questions?",
+            "Where do you get RRA Frequently Asked Questions?",
+            "What is the link to the RRA Frequently Asked Questions?",
+            "How do you get RRA Frequently Asked Questions?",
+            ""
+        ],
+        "responses": "Find a list of frequently asked questions and their answers by this link <a href=\"https://www.rra.gov.rw/en/domestic-tax-services/faqs\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Investors Starter Pack",
+        "patterns": [
+            "what is procedures to RRA Investors Starter Pack?",
+            "where do I find RRA Investors Starter Pack?",
+            "I want to know about RRA Investors Starter Pack?",
+            "what is RRA Investors Starter Pack?",
+            "what is link of RRA Investors Starter Pack?",
+            "Guide me to RRA Investors Starter Pack?",
+            "Where do you get RRA Investors Starter Pack?",
+            "What is the link to the RRA Investors Starter Pack?",
+            "How do you get RRA Investors Starter Pack?",
+            ""
+        ],
+        "responses": "All you need to know about investing in Rwanda, and a contact list for immediate assistance. by this link <a href=\"https://www.rra.gov.rw/en/domestic-tax-services/investors-starter-pack\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Registration and De-registration",
+        "patterns": [
+            "what is procedures to RRA Registration and De-registration?",
+            "where do I find RRA Registration and De-registration?",
+            "I want to know about RRA Registration and De-registration?",
+            "what is RRA Registration and De-registration?",
+            "what is link of RRA Registration and De-registration?",
+            "Guide me to RRA Registration and De-registration?",
+            "Where do you get RRA Registration and De-registration?",
+            "What is the link to the RRA Registration and De-registration?",
+            "How do you get RRA Registration and De-registration?",
+            ""
+        ],
+        "responses": "All you need  to know about business registration and de-registration by this link <a href=\"https://www.rra.gov.rw/en/domestic-tax-services/registration-de-registration\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Income Tax ",
+        "patterns": [
+            "what is procedures to RRA Income Tax ?",
+            "where do I find RRA Income Tax ?",
+            "I want to know about RRA Income Tax ?",
+            "what is RRA Income Tax ?",
+            "what is link of RRA Income Tax ?",
+            "Guide me to RRA Income Tax ?",
+            "Where do you get RRA Income Tax ?",
+            "What is the link to the RRA Income Tax ?",
+            "How do you get RRA Income Tax ?",
+            ""
+        ],
+        "responses": "Here you will find more about Personal Income Tax and Corporate Income Tax computation and declaration process. by this link <a href=\"https://www.rra.gov.rw/en/taxes-fees/domestic-taxes/income-tax\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Electronic Billing Machine",
+        "patterns": [
+            "what is procedures to RRA Electronic Billing Machine?",
+            "where do I find RRA Electronic Billing Machine?",
+            "I want to know about RRA Electronic Billing Machine?",
+            "what is RRA Electronic Billing Machine?",
+            "what is link of RRA Electronic Billing Machine?",
+            "Guide me to RRA Electronic Billing Machine?",
+            "Where do you get RRA Electronic Billing Machine?",
+            "What is the link to the RRA Electronic Billing Machine?",
+            "How do you get RRA Electronic Billing Machine?",
+            ""
+        ],
+        "responses": "All you need to know about electronic invoicing solutions (EBM) by this link <a href=\"https://www.rra.gov.rw/en/ebm-electronic-billing-machine\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA RSSB",
+        "patterns": [
+            "what is procedures to RRA RSSB?",
+            "where do I find RRA RSSB?",
+            "I want to know about RRA RSSB?",
+            "what is RRA RSSB?",
+            "what is link of RRA RSSB?",
+            "Guide me to RRA RSSB?",
+            "Where do you get RRA RSSB?",
+            "What is the link to the RRA RSSB?",
+            "How do you get RRA RSSB?",
+            ""
+        ],
+        "responses": "Here you will find out more about Pension scheme and Medical Insurance Schemes by this link <a href=\"https://www.rra.gov.rw/en/domestic-tax-services/rssb\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Consumption Tax",
+        "patterns": [
+            "what is procedures to RRA Consumption Tax?",
+            "where do I find RRA Consumption Tax?",
+            "I want to know about RRA Consumption Tax?",
+            "what is RRA Consumption Tax?",
+            "what is link of RRA Consumption Tax?",
+            "Guide me to RRA Consumption Tax?",
+            "Where do you get RRA Consumption Tax?",
+            "What is the link to the RRA Consumption Tax?",
+            "How do you get RRA Consumption Tax?",
+            ""
+        ],
+        "responses": "Find here a list of products subject to consumption tax and their respective rates. by this link <a href=\"https://www.rra.gov.rw/en/taxes-fees/domestic-taxes/consumption-tax\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Value Added Tax",
+        "patterns": [
+            "what is procedures to RRA Value Added Tax?",
+            "where do I find RRA Value Added Tax?",
+            "I want to know about RRA Value Added Tax?",
+            "what is RRA Value Added Tax?",
+            "what is link of RRA Value Added Tax?",
+            "Guide me to RRA Value Added Tax?",
+            "Where do you get RRA Value Added Tax?",
+            "What is the link to the RRA Value Added Tax?",
+            "How do you get RRA Value Added Tax?",
+            ""
+        ],
+        "responses": "More information on VAT registration, computation, exemptions and refund. by this link <a href=\"https://www.rra.gov.rw/en/domestic-tax-services/value-added-tax\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Withholding Taxes",
+        "patterns": [
+            "what is procedures to RRA Withholding Taxes?",
+            "where do I find RRA Withholding Taxes?",
+            "I want to know about RRA Withholding Taxes?",
+            "what is RRA Withholding Taxes?",
+            "what is link of RRA Withholding Taxes?",
+            "Guide me to RRA Withholding Taxes?",
+            "Where do you get RRA Withholding Taxes?",
+            "What is the link to the RRA Withholding Taxes?",
+            "How do you get RRA Withholding Taxes?",
+            ""
+        ],
+        "responses": "You can find key information about withholding taxes - types of withholding tax, dividends, penalties and interests. by this link <a href=\"https://www.rra.gov.rw/en/taxes-fees/domestic-taxes/withholding-taxes\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA District Revenues",
+        "patterns": [
+            "what is procedures to RRA District Revenues?",
+            "where do I find RRA District Revenues?",
+            "I want to know about RRA District Revenues?",
+            "what is RRA District Revenues?",
+            "what is link of RRA District Revenues?",
+            "Guide me to RRA District Revenues?",
+            "Where do you get RRA District Revenues?",
+            "What is the link to the RRA District Revenues?",
+            "How do you get RRA District Revenues?",
+            ""
+        ],
+        "responses": "Here are further specifics on immovable property tax, rental income tax, trade license tax, fees and charges by this link <a href=\"https://www.rra.gov.rw/en/district-revenues\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Motor Vehicle Services",
+        "patterns": [
+            "what is procedures to RRA Motor Vehicle Services?",
+            "where do I find RRA Motor Vehicle Services?",
+            "I want to know about RRA Motor Vehicle Services?",
+            "what is RRA Motor Vehicle Services?",
+            "what is link of RRA Motor Vehicle Services?",
+            "Guide me to RRA Motor Vehicle Services?",
+            "Where do you get RRA Motor Vehicle Services?",
+            "What is the link to the RRA Motor Vehicle Services?",
+            "How do you get RRA Motor Vehicle Services?",
+            ""
+        ],
+        "responses": "Key information about motor vehicle ownership transfer,  request for a lost yellow card, etc by this link <a href=\"https://www.rra.gov.rw/en/motor-vehicle-services\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Other Services",
+        "patterns": [
+            "what is procedures to RRA Other Services?",
+            "where do I find RRA Other Services?",
+            "I want to know about RRA Other Services?",
+            "what is RRA Other Services?",
+            "what is link of RRA Other Services?",
+            "Guide me to RRA Other Services?",
+            "Where do you get RRA Other Services?",
+            "What is the link to the RRA Other Services?",
+            "How do you get RRA Other Services?",
+            ""
+        ],
+        "responses": "Details on other services provided by RRA such as Tax Clearance Certificates and Quitus Fiscal. by this link <a href=\"https://www.rra.gov.rw/en/domestic-tax-services/other-services\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Valuation Gateway",
+        "patterns": [
+            "what is procedures to RRA Valuation Gateway?",
+            "where do I find RRA Valuation Gateway?",
+            "I want to know about RRA Valuation Gateway?",
+            "what is RRA Valuation Gateway?",
+            "what is link of RRA Valuation Gateway?",
+            "Guide me to RRA Valuation Gateway?",
+            "Where do you get RRA Valuation Gateway?",
+            "What is the link to the RRA Valuation Gateway?",
+            "How do you get RRA Valuation Gateway?",
+            ""
+        ],
+        "responses": "Find here customs value for used Motor vehicles, and other commodities. by this link <a href=\"https://www.rra.gov.rw/en/customs-services/valuation-gateway\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Border Posts",
+        "patterns": [
+            "what is procedures to RRA Border Posts?",
+            "where do I find RRA Border Posts?",
+            "I want to know about RRA Border Posts?",
+            "what is RRA Border Posts?",
+            "what is link of RRA Border Posts?",
+            "Guide me to RRA Border Posts?",
+            "Where do you get RRA Border Posts?",
+            "What is the link to the RRA Border Posts?",
+            "How do you get RRA Border Posts?",
+            ""
+        ],
+        "responses": "RRA customs offices countrywide by this link <a href=\"https://www.rra.gov.rw/en/customs-services/border-posts\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Forms",
+        "patterns": [
+            "what is procedures to RRA Forms?",
+            "where do I find RRA Forms?",
+            "I want to know about RRA Forms?",
+            "what is RRA Forms?",
+            "what is link of RRA Forms?",
+            "Guide me to RRA Forms?",
+            "Where do you get RRA Forms?",
+            "What is the link to the RRA Forms?",
+            "How do you get RRA Forms?",
+            ""
+        ],
+        "responses": "Here you will find the application forms for licensing bonded warehouses and vehicles. by this link <a href=\"https://www.rra.gov.rw/en/customs-services/forms\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Exporters",
+        "patterns": [
+            "what is procedures to RRA Exporters?",
+            "where do I find RRA Exporters?",
+            "I want to know about RRA Exporters?",
+            "what is RRA Exporters?",
+            "what is link of RRA Exporters?",
+            "Guide me to RRA Exporters?",
+            "Where do you get RRA Exporters?",
+            "What is the link to the RRA Exporters?",
+            "How do you get RRA Exporters?",
+            ""
+        ],
+        "responses": "More clarification on export procedures by this link <a href=\"https://www.rra.gov.rw/en/customs-services/exporters\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Importers",
+        "patterns": [
+            "what is procedures to RRA Importers?",
+            "where do I find RRA Importers?",
+            "I want to know about RRA Importers?",
+            "what is RRA Importers?",
+            "what is link of RRA Importers?",
+            "Guide me to RRA Importers?",
+            "Where do you get RRA Importers?",
+            "What is the link to the RRA Importers?",
+            "How do you get RRA Importers?",
+            ""
+        ],
+        "responses": "If you have any queries about temporary importation, Import procedures, and rules of origin, please click here. by this link <a href=\"https://www.rra.gov.rw/en/customs-services/importers\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA EAC Customs Union",
+        "patterns": [
+            "what is procedures to RRA EAC Customs Union?",
+            "where do I find RRA EAC Customs Union?",
+            "I want to know about RRA EAC Customs Union?",
+            "what is RRA EAC Customs Union?",
+            "what is link of RRA EAC Customs Union?",
+            "Guide me to RRA EAC Customs Union?",
+            "Where do you get RRA EAC Customs Union?",
+            "What is the link to the RRA EAC Customs Union?",
+            "How do you get RRA EAC Customs Union?",
+            ""
+        ],
+        "responses": "Access all legislation under the customs union in the East African Community. by this link <a href=\"https://www.rra.gov.rw/en/customs-services/eac-customs-union\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Travelers",
+        "patterns": [
+            "what is procedures to RRA Travelers?",
+            "where do I find RRA Travelers?",
+            "I want to know about RRA Travelers?",
+            "what is RRA Travelers?",
+            "what is link of RRA Travelers?",
+            "Guide me to RRA Travelers?",
+            "Where do you get RRA Travelers?",
+            "What is the link to the RRA Travelers?",
+            "How do you get RRA Travelers?",
+            ""
+        ],
+        "responses": "Here you will find information on baggage and personal effects of passengers, allowances, and prohibited goods. by this link <a href=\"https://www.rra.gov.rw/en/customs-services/travelers\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Cargo Management",
+        "patterns": [
+            "what is procedures to RRA Cargo Management?",
+            "where do I find RRA Cargo Management?",
+            "I want to know about RRA Cargo Management?",
+            "what is RRA Cargo Management?",
+            "what is link of RRA Cargo Management?",
+            "Guide me to RRA Cargo Management?",
+            "Where do you get RRA Cargo Management?",
+            "What is the link to the RRA Cargo Management?",
+            "How do you get RRA Cargo Management?",
+            ""
+        ],
+        "responses": "All you need to know about cargo and warehouse management by this link <a href=\"https://www.rra.gov.rw/en/customs-services/cargo-management\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Transit Regime",
+        "patterns": [
+            "what is procedures to RRA Transit Regime?",
+            "where do I find RRA Transit Regime?",
+            "I want to know about RRA Transit Regime?",
+            "what is RRA Transit Regime?",
+            "what is link of RRA Transit Regime?",
+            "Guide me to RRA Transit Regime?",
+            "Where do you get RRA Transit Regime?",
+            "What is the link to the RRA Transit Regime?",
+            "How do you get RRA Transit Regime?",
+            ""
+        ],
+        "responses": "Process and procedures for goods under transit regime. by this link <a href=\"https://www.rra.gov.rw/en/customs-services/transit-regime\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Postal Services",
+        "patterns": [
+            "what is procedures to RRA Postal Services?",
+            "where do I find RRA Postal Services?",
+            "I want to know about RRA Postal Services?",
+            "what is RRA Postal Services?",
+            "what is link of RRA Postal Services?",
+            "Guide me to RRA Postal Services?",
+            "Where do you get RRA Postal Services?",
+            "What is the link to the RRA Postal Services?",
+            "How do you get RRA Postal Services?",
+            ""
+        ],
+        "responses": "Process and procedures to export via post office. by this link <a href=\"https://www.rra.gov.rw/en/customs-services/postal-services\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Licensing of Agents",
+        "patterns": [
+            "what is procedures to RRA Licensing of Agents?",
+            "where do I find RRA Licensing of Agents?",
+            "I want to know about RRA Licensing of Agents?",
+            "what is RRA Licensing of Agents?",
+            "what is link of RRA Licensing of Agents?",
+            "Guide me to RRA Licensing of Agents?",
+            "Where do you get RRA Licensing of Agents?",
+            "What is the link to the RRA Licensing of Agents?",
+            "How do you get RRA Licensing of Agents?",
+            ""
+        ],
+        "responses": "This section contains the process and procedures for clearing agencies licensing. by this link <a href=\"https://www.rra.gov.rw/en/customs-services/licencing-of-agents\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Customs Reforms",
+        "patterns": [
+            "what is procedures to RRA Customs Reforms?",
+            "where do I find RRA Customs Reforms?",
+            "I want to know about RRA Customs Reforms?",
+            "what is RRA Customs Reforms?",
+            "what is link of RRA Customs Reforms?",
+            "Guide me to RRA Customs Reforms?",
+            "Where do you get RRA Customs Reforms?",
+            "What is the link to the RRA Customs Reforms?",
+            "How do you get RRA Customs Reforms?",
+            ""
+        ],
+        "responses": "Find some reforms introduced in customs to facilitate international trade. by this link <a href=\"https://www.rra.gov.rw/en/customs-services/custom-reforms\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Tax Laws",
+        "patterns": [
+            "what is procedures to RRA Tax Laws?",
+            "where do I find RRA Tax Laws?",
+            "I want to know about RRA Tax Laws?",
+            "what is RRA Tax Laws?",
+            "what is link of RRA Tax Laws?",
+            "Guide me to RRA Tax Laws?",
+            "Where do you get RRA Tax Laws?",
+            "What is the link to the RRA Tax Laws?",
+            "How do you get RRA Tax Laws?",
+            ""
+        ],
+        "responses": "Get access to all tax laws, rulings and other tax procedures. by this link <a href=\"https://www.rra.gov.rw/en/laws-policies-and-rulings\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Tax Handbook and Brochures ",
+        "patterns": [
+            "what is procedures to RRA Tax Handbook and Brochures ?",
+            "where do I find RRA Tax Handbook and Brochures ?",
+            "I want to know about RRA Tax Handbook and Brochures ?",
+            "what is RRA Tax Handbook and Brochures ?",
+            "what is link of RRA Tax Handbook and Brochures ?",
+            "Guide me to RRA Tax Handbook and Brochures ?",
+            "Where do you get RRA Tax Handbook and Brochures ?",
+            "What is the link to the RRA Tax Handbook and Brochures ?",
+            "How do you get RRA Tax Handbook and Brochures ?",
+            ""
+        ],
+        "responses": "Summarized information about taxes and a simplified guide to understanding the tax laws and procedures by this link <a href=\"https://www.rra.gov.rw/en/publications?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=792&cHash=f29ec8bd4b53158cd3ef2e8bc46798a7\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA RRA Tax statistics",
+        "patterns": [
+            "what is procedures to RRA RRA Tax statistics?",
+            "where do I find RRA RRA Tax statistics?",
+            "I want to know about RRA RRA Tax statistics?",
+            "what is RRA RRA Tax statistics?",
+            "what is link of RRA RRA Tax statistics?",
+            "Guide me to RRA RRA Tax statistics?",
+            "Where do you get RRA RRA Tax statistics?",
+            "What is the link to the RRA RRA Tax statistics?",
+            "How do you get RRA RRA Tax statistics?",
+            ""
+        ],
+        "responses": "You have access to all Tax Statistics from 2015, officially published by RRA. by this link <a href=\"https://www.rra.gov.rw/en/publications?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=793&cHash=7b7ad43895168d50a761e48888902c1d\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA RRA Research Reports",
+        "patterns": [
+            "what is procedures to RRA RRA Research Reports?",
+            "where do I find RRA RRA Research Reports?",
+            "I want to know about RRA RRA Research Reports?",
+            "what is RRA RRA Research Reports?",
+            "what is link of RRA RRA Research Reports?",
+            "Guide me to RRA RRA Research Reports?",
+            "Where do you get RRA RRA Research Reports?",
+            "What is the link to the RRA RRA Research Reports?",
+            "How do you get RRA RRA Research Reports?",
+            ""
+        ],
+        "responses": "Research reports carried out by the Tax Administration are published here. by this link <a href=\"https://www.rra.gov.rw/en/publications?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=794&cHash=4cd473510a78c7a91963185013873f91\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Income Tax Annex Tutorial and FAQ",
+        "patterns": [
+            "what is procedures to RRA Income Tax Annex Tutorial and FAQ?",
+            "where do I find RRA Income Tax Annex Tutorial and FAQ?",
+            "I want to know about RRA Income Tax Annex Tutorial and FAQ?",
+            "what is RRA Income Tax Annex Tutorial and FAQ?",
+            "what is link of RRA Income Tax Annex Tutorial and FAQ?",
+            "Guide me to RRA Income Tax Annex Tutorial and FAQ?",
+            "Where do you get RRA Income Tax Annex Tutorial and FAQ?",
+            "What is the link to the RRA Income Tax Annex Tutorial and FAQ?",
+            "How do you get RRA Income Tax Annex Tutorial and FAQ?",
+            ""
+        ],
+        "responses": "Here you will find information related to Income Tax Taxpayer annexes by this link <a href=\"https://www.rra.gov.rw/en/publications?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=795&cHash=69b42dc7620ff7dfc0f26fdb40fdd3cb\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA RRA Service Charter III ",
+        "patterns": [
+            "what is procedures to RRA RRA Service Charter III ?",
+            "where do I find RRA RRA Service Charter III ?",
+            "I want to know about RRA RRA Service Charter III ?",
+            "what is RRA RRA Service Charter III ?",
+            "what is link of RRA RRA Service Charter III ?",
+            "Guide me to RRA RRA Service Charter III ?",
+            "Where do you get RRA RRA Service Charter III ?",
+            "What is the link to the RRA RRA Service Charter III ?",
+            "How do you get RRA RRA Service Charter III ?",
+            ""
+        ],
+        "responses": "Here is a catalogue of our services, requirements, cost, and time taken to deliver by this link <a href=\"https://www.rra.gov.rw/en/publications?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1057&cHash=e3aaf59a7b34def0311958711ded0a20\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA RRA Annual Reports",
+        "patterns": [
+            "what is procedures to RRA RRA Annual Reports?",
+            "where do I find RRA RRA Annual Reports?",
+            "I want to know about RRA RRA Annual Reports?",
+            "what is RRA RRA Annual Reports?",
+            "what is link of RRA RRA Annual Reports?",
+            "Guide me to RRA RRA Annual Reports?",
+            "Where do you get RRA RRA Annual Reports?",
+            "What is the link to the RRA RRA Annual Reports?",
+            "How do you get RRA RRA Annual Reports?",
+            ""
+        ],
+        "responses": "You can easily access our performance annual report since 2015. by this link <a href=\"https://www.rra.gov.rw/en/publications?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1100&cHash=d8753b85361829b7738e82dfdd9fb9e4\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA EAC GAZETTE ",
+        "patterns": [
+            "what is procedures to RRA EAC GAZETTE ?",
+            "where do I find RRA EAC GAZETTE ?",
+            "I want to know about RRA EAC GAZETTE ?",
+            "what is RRA EAC GAZETTE ?",
+            "what is link of RRA EAC GAZETTE ?",
+            "Guide me to RRA EAC GAZETTE ?",
+            "Where do you get RRA EAC GAZETTE ?",
+            "What is the link to the RRA EAC GAZETTE ?",
+            "How do you get RRA EAC GAZETTE ?",
+            ""
+        ],
+        "responses": "Download for free EAC Gazettes for your reference. by this link <a href=\"https://www.rra.gov.rw/en/publications?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1101&cHash=93fe9b91b67760be948732fb3c7ab70f\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA RRA Strategic Plans and Action Plans ",
+        "patterns": [
+            "what is procedures to RRA RRA Strategic Plans and Action Plans ?",
+            "where do I find RRA RRA Strategic Plans and Action Plans ?",
+            "I want to know about RRA RRA Strategic Plans and Action Plans ?",
+            "what is RRA RRA Strategic Plans and Action Plans ?",
+            "what is link of RRA RRA Strategic Plans and Action Plans ?",
+            "Guide me to RRA RRA Strategic Plans and Action Plans ?",
+            "Where do you get RRA RRA Strategic Plans and Action Plans ?",
+            "What is the link to the RRA RRA Strategic Plans and Action Plans ?",
+            "How do you get RRA RRA Strategic Plans and Action Plans ?",
+            ""
+        ],
+        "responses": "Get access to our strategic and action plan since 2015. by this link <a href=\"https://www.rra.gov.rw/en/publications?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1103&cHash=26d2ef3e80718872ddd0c8fc5dc73045\" target=\"_blank\">Here</a>"
+    },
+    {
+        "tag": "RRA Double Taxation Agreement ",
+        "patterns": [
+            "what is procedures to RRA Double Taxation Agreement ?",
+            "where do I find RRA Double Taxation Agreement ?",
+            "I want to know about RRA Double Taxation Agreement ?",
+            "what is RRA Double Taxation Agreement ?",
+            "what is link of RRA Double Taxation Agreement ?",
+            "Guide me to RRA Double Taxation Agreement ?",
+            "Where do you get RRA Double Taxation Agreement ?",
+            "What is the link to the RRA Double Taxation Agreement ?",
+            "How do you get RRA Double Taxation Agreement ?",
+            ""
+        ],
+        "responses": "Find a series of Double Taxation Agreements for your reference. by this link <a href=\"https://www.rra.gov.rw/en/publications?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1105&cHash=f71e9bc7ede752e64679f8c39e73871c\" target=\"_blank\">Here</a>"
+    }
+]

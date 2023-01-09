@@ -1,0 +1,69 @@
+{
+    "intents": [
+        {
+            "tag": "RDB_Definition",
+            "patterns": "What is the Rwanda Development Board?",
+            "responses": "The Rwanda Development Board (RDB) is a Rwandan Government agency charged with fast-tracking the economic development of Rwanda. For investors, it is the gateway to all the investment opportunities offered by Rwanda and a strong partner to help decide on and implement each investment project."
+        },
+        {
+            "tag": "RDB_Services",
+            "patterns": "What services does the Rwanda Development Board provide?",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+            "responses": "RDB provides advice, information and assistance on all matters relating to investment including helping with the investor\u2019s initial visit to Rwanda. In addition RDB offers a wide range of investor services including; Business Registration\nBusiness and investment facilitation\nIssuance of Investment Certificates that will facilitate in starting your business\nNotary services to newly registered investors\nAccess to information on location factors and business opportunities\nImmigration services For more information about our services, please contact us directly or visit our website <a href=\"http://www.rdb.rw\" target=\"_blank\">Here</a>"
+        },
+        {
+            "tag": "RDB_foreignInvestor",
+            "patterns": "Who is a foreign investor in Rwanda?",
+            "responses": "A foreign investor in Rwanda (referring to the Investment Code) is any legal entity investing a minimum startup capital of $250.000USD for overseas citizens and $100,000 for locals and members from the East African Community and COMESA states. This enables the investor to apply for an investment certificate"
+        },
+        {
+            "tag": "RDB_foreignInvestorTreated",
+            "patterns": "Are investors treated the same as local investors in Rwanda?",
+            "responses": "Yes, overseas investors are offered the same opportunities and services. Overseas investors are particularly welcomed to participate in the continued growth of the Rwandan economy."
+        },
+        {
+            "tag": "RDB_InvestmentOpportunities",
+            "patterns": "What are some of the investment opportunities available in Rwanda?",
+            "responses": "Rwanda has a wide range of investment opportunities to offer to investors. Our major focus has majorly relied on key priority sectors of investment that include; infrastructure, agriculture, energy, tourism, business services, ICT, real estate and construction, Financial Services, Mining, Education, Health and General Manufacturing. To find out more, please contact us by telephone or by email on\u00a0info@rdb.rw\u00a0and we will be delighted to respond quickly to your enquiry."
+        },
+        {
+            "tag": "RDB_howLongToregister",
+            "patterns": "How long does it take to register my company/ investment business in Rwanda?",
+            "responses": "It only takes six (6) hours to register your business in Rwanda. Starting a business in Rwanda requires 2 simple steps; First step:\u00a0approval of a company name and submitting application . Second Step:\u00a0Obtaining a Certificate of incorporation.\r"
+        },
+        {
+            "tag": "RDB_docsRequiredToregister",
+            "patterns": " What are some of the important documents needed before I can register my business in Rwanda?",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+            "responses": "Domestic Company Registration\n\nCopy of ID/Passport\nComplete two copies of Memorandum of Association Art 14 (downloaded on our website\u00a0here)\n\nOpening a branch/ Foreign Company\n\nPower of attorney to present the company in Rwanda.(Notarised)\nA duly authenticated copy of the memorandum Articles of Association. (Notarised)\nCertificate of Registration/Incorporation issued by the registration authority in the country of incorporation. (Notarised)\nNotarised resolution from the authorized agency authorizing to open a branch.\nPassport copies of the shareholders/directors.\nList of directors residing in Rwanda (atleast One) For more information about business registration please visit this <a href=\"http://org.rdb.rw/\" target=\"_blank\">Link</a> or <a href=\"http://rwanda.eregulations.org\" target=\"_blank\">Here</a>"
+        },
+        {
+            "tag": "RDB_feesToregister",
+            "patterns": "Are there any fees charged to register my business in Rwanda?",
+            "responses": "No, it's free. "
+        },
+        {
+            "tag": "RDB_howLongTogetVisa",
+            "patterns": "How long does it take to obtain a visa in Rwanda? Where do I go to?",
+            "responses": "It only takes three working days to get a Rwandan Visa for an online application or through a Rwandan High Commission or Consular office. A tracking number will be issued which will later on be used to obtain the visa. Please contact the nearest Rwandan Embassy/ Consular office for further details.  You may also visit this<a href=\"http://www.migration.gov.rw\" target=\"_blank\">link for more information</a>"
+        },
+        {
+            "tag": "RDB_getLandinRwanda",
+            "patterns": "Can I get land in Rwanda for my project?",
+            "responses": "Yes land can easily be obtained for projects and this is done in two ways; Privately purchasing land from the private sector RDB can apply for public sector land on your behalf of the investor for special considerations to cabinet, should RDB deem the project to be significant business or strategic importance"
+        },
+        {
+            "tag": "RDB_CostofLandinRwanda",
+            "patterns": "What is the cost of land in Rwanda?",
+            "responses": "There is no fixed price for land in Rwanda; this entirely depends on the location and the bargaining power between the buyer and the land owner."
+        },
+        {
+            "tag": "RDB_exchangeofRwandaCurr/dollar",
+            "patterns": "What is the exchange rate of the dollar against your local currency?",
+            "responses": "To obtain the latest exchange rates for major currencies against the Rwandan Franc, please <a href=\"http://www.bnr.rw\" target=\"_blank\">visit for more details.</a>"
+        },
+        {
+            "tag": "RDB_internationOffices",
+            "patterns": " Do you have regional or international offices that can facilitate in providing more information?",
+            "responses": "Yes the Rwanda Development Board has regional and international offices that will help provide information to investors. RDB offices in North America (Canada), China (Shenzhen), and Turkey (Istanbul). Advice and help can also be obtained from the Commercial Attaches, in each Rwandan Embassy/ Consular office abroad. <a href=\"http://www.embassy.gov.rw\" target=\"_blank\">Link</a>"
+        }
+    ]
+}

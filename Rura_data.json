@@ -1,0 +1,258 @@
+[
+    {
+        "tag": "RURA Online Services",
+        "patterns": [
+            "give me a link of RURA Online Services.",
+            "how to get RURA Online Services?",
+            "how can i find RURA Online Services?",
+            "Where do you get RURA Online Services?",
+            "What is the link to the RURA Online Services?",
+            "How do you get RURA Online Services?",
+            "Guide me to RURA Online Services?"
+        ],
+        "responses": [
+            "you can use this <a href=\"https://licensing.rura.rw/\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"https://licensing.rura.rw/\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA Driver Vocational Card (DVC)",
+        "patterns": [
+            "give me a link of RURA Driver Vocational Card (DVC).",
+            "how to get RURA Driver Vocational Card (DVC)?",
+            "how can i find RURA Driver Vocational Card (DVC)?",
+            "Where do you get RURA Driver Vocational Card (DVC)?",
+            "What is the link to the RURA Driver Vocational Card (DVC)?",
+            "How do you get RURA Driver Vocational Card (DVC)?",
+            "Guide me to RURA Driver Vocational Card (DVC)?"
+        ],
+        "responses": [
+            "you can use this <a href=\"https://dvc.rura.rw/\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"https://dvc.rura.rw/\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA Consumer Complaint",
+        "patterns": [
+            "give me a link of RURA Consumer Complaint.",
+            "how to get RURA Consumer Complaint?",
+            "how can i find RURA Consumer Complaint?",
+            "Where do you get RURA Consumer Complaint?",
+            "What is the link to the RURA Consumer Complaint?",
+            "How do you get RURA Consumer Complaint?",
+            "Guide me to RURA Consumer Complaint?"
+        ],
+        "responses": [
+            "you can use this <a href=\"https://licensing.rura.rw/customer/complaint/form\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"https://licensing.rura.rw/customer/complaint/form\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA Type Approved Devices",
+        "patterns": [
+            "give me a link of RURA Type Approved Devices.",
+            "how to get RURA Type Approved Devices?",
+            "how can i find RURA Type Approved Devices?",
+            "Where do you get RURA Type Approved Devices?",
+            "What is the link to the RURA Type Approved Devices?",
+            "How do you get RURA Type Approved Devices?",
+            "Guide me to RURA Type Approved Devices?"
+        ],
+        "responses": [
+            "you can use this <a href=\"https://licensing.rura.rw/type-approval/search-devices\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"https://licensing.rura.rw/type-approval/search-devices\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA IMEI Verification System",
+        "patterns": [
+            "give me a link of RURA IMEI Verification System.",
+            "how to get RURA IMEI Verification System?",
+            "how can i find RURA IMEI Verification System?",
+            "Where do you get RURA IMEI Verification System?",
+            "What is the link to the RURA IMEI Verification System?",
+            "How do you get RURA IMEI Verification System?",
+            "Guide me to RURA IMEI Verification System?"
+        ],
+        "responses": [
+            "you can use this <a href=\"http://www.rura.rw/tcrplus/\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"http://www.rura.rw/tcrplus/\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA Annual reports",
+        "patterns": [
+            "give me a link of RURA Annual reports.",
+            "how to get RURA Annual reports?",
+            "how can i find RURA Annual reports?",
+            "Where do you get RURA Annual reports?",
+            "What is the link to the RURA Annual reports?",
+            "How do you get RURA Annual reports?",
+            "Guide me to RURA Annual reports?"
+        ],
+        "responses": [
+            "you can use this <a href=\"http://www.rura.rw/index.php?id=213\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"http://www.rura.rw/index.php?id=213\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA Tariffs",
+        "patterns": [
+            "give me a link of RURA Tariffs.",
+            "how to get RURA Tariffs?",
+            "how can i find RURA Tariffs?",
+            "Where do you get RURA Tariffs?",
+            "What is the link to the RURA Tariffs?",
+            "How do you get RURA Tariffs?",
+            "Guide me to RURA Tariffs?"
+        ],
+        "responses": [
+            "you can use this <a href=\"http://www.rura.rw/index.php?id=288\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"http://www.rura.rw/index.php?id=288\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA Statistics",
+        "patterns": [
+            "give me a link of RURA Statistics.",
+            "how to get RURA Statistics?",
+            "how can i find RURA Statistics?",
+            "Where do you get RURA Statistics?",
+            "What is the link to the RURA Statistics?",
+            "How do you get RURA Statistics?",
+            "Guide me to RURA Statistics?"
+        ],
+        "responses": [
+            "you can use this <a href=\"http://www.rura.rw/index.php?id=276\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"http://www.rura.rw/index.php?id=276\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA Revoked Licenses",
+        "patterns": [
+            "give me a link of RURA Revoked Licenses.",
+            "how to get RURA Revoked Licenses?",
+            "how can i find RURA Revoked Licenses?",
+            "Where do you get RURA Revoked Licenses?",
+            "What is the link to the RURA Revoked Licenses?",
+            "How do you get RURA Revoked Licenses?",
+            "Guide me to RURA Revoked Licenses?"
+        ],
+        "responses": [
+            "you can use this <a href=\"http://www.rura.rw/index.php?id=287\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"http://www.rura.rw/index.php?id=287\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA Key ICT Documents",
+        "patterns": [
+            "give me a link of RURA Key ICT Documents.",
+            "how to get RURA Key ICT Documents?",
+            "how can i find RURA Key ICT Documents?",
+            "Where do you get RURA Key ICT Documents?",
+            "What is the link to the RURA Key ICT Documents?",
+            "How do you get RURA Key ICT Documents?",
+            "Guide me to RURA Key ICT Documents?"
+        ],
+        "responses": [
+            "you can use this <a href=\"http://www.rura.rw/index.php?id=211\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"http://www.rura.rw/index.php?id=211\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA Consumer Affairs",
+        "patterns": [
+            "give me a link of RURA Consumer Affairs.",
+            "how to get RURA Consumer Affairs?",
+            "how can i find RURA Consumer Affairs?",
+            "Where do you get RURA Consumer Affairs?",
+            "What is the link to the RURA Consumer Affairs?",
+            "How do you get RURA Consumer Affairs?",
+            "Guide me to RURA Consumer Affairs?"
+        ],
+        "responses": [
+            "you can use this <a href=\"http://www.rura.rw/index.php?id=279\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"http://www.rura.rw/index.php?id=279\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA Regulations and Guidelines",
+        "patterns": [
+            "give me a link of RURA Regulations and Guidelines.",
+            "how to get RURA Regulations and Guidelines?",
+            "how can i find RURA Regulations and Guidelines?",
+            "Where do you get RURA Regulations and Guidelines?",
+            "What is the link to the RURA Regulations and Guidelines?",
+            "How do you get RURA Regulations and Guidelines?",
+            "Guide me to RURA Regulations and Guidelines?"
+        ],
+        "responses": [
+            "you can use this <a href=\"http://www.rura.rw/index.php?id=207\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"http://www.rura.rw/index.php?id=207\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA Board Decisions",
+        "patterns": [
+            "give me a link of RURA Board Decisions.",
+            "how to get RURA Board Decisions?",
+            "how can i find RURA Board Decisions?",
+            "Where do you get RURA Board Decisions?",
+            "What is the link to the RURA Board Decisions?",
+            "How do you get RURA Board Decisions?",
+            "Guide me to RURA Board Decisions?"
+        ],
+        "responses": [
+            "you can use this <a href=\"http://www.rura.rw/index.php?id=208\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"http://www.rura.rw/index.php?id=208\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA Regulations for Consultation",
+        "patterns": [
+            "give me a link of RURA Regulations for Consultation.",
+            "how to get RURA Regulations for Consultation?",
+            "how can i find RURA Regulations for Consultation?",
+            "Where do you get RURA Regulations for Consultation?",
+            "What is the link to the RURA Regulations for Consultation?",
+            "How do you get RURA Regulations for Consultation?",
+            "Guide me to RURA Regulations for Consultation?"
+        ],
+        "responses": [
+            "you can use this <a href=\"http://www.rura.rw/index.php?id=291\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"http://www.rura.rw/index.php?id=291\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "RURA FAQs",
+        "patterns": [
+            "give me a link of RURA FAQs.",
+            "how to get RURA FAQs?",
+            "how can i find RURA FAQs?",
+            "Where do you get RURA FAQs?",
+            "What is the link to the RURA FAQs?",
+            "How do you get RURA FAQs?",
+            "Guide me to RURA FAQs?"
+        ],
+        "responses": [
+            "you can use this <a href=\"http://www.rura.rw/index.php?id=217\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"http://www.rura.rw/index.php?id=217\" target=\"_blank\">link</a>."
+        ]
+    },
+    {
+        "tag": "Tweets by RURA_RWANDA",
+        "patterns": [
+            "give me a link of Tweets by RURA_RWANDA.",
+            "how to get Tweets by RURA_RWANDA?",
+            "how can i find Tweets by RURA_RWANDA?",
+            "Where do you get Tweets by RURA_RWANDA?",
+            "What is the link to the Tweets by RURA_RWANDA?",
+            "How do you get Tweets by RURA_RWANDA?",
+            "Guide me to Tweets by RURA_RWANDA?"
+        ],
+        "responses": [
+            "you can use this <a href=\"https://twitter.com/RURA_RWANDA\" target=\"_blank\">link</a> for more info.",
+            "Here is the <a href=\"https://twitter.com/RURA_RWANDA\" target=\"_blank\">link</a>."
+        ]
+    }
+]
